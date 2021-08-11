@@ -13,10 +13,13 @@ Subirei algumas POCs (que, justifica a simplicidade dos escopos de códigos) par
 * Iterador e Gerador:
     * [Sequência de Fibonacci](./fibonacci)
 
-* Extrair texto de imagem:
+* Extrair Texto de Imagem:
     * [easyocr](./easyocr)
 
-* Barra de progresso:
+* Extrair Texto de PDF:
+    * [fitz](./fitz)
+
+* Barra de Progresso:
     * [tqdm](./tqdm)
 
 ## Bibliotecas

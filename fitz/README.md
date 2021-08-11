@@ -1,0 +1,1 @@
+## Extrair Texto de PDF
