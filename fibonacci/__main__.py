@@ -24,11 +24,23 @@ class Fibonacci():
         return retorno
 
 
-def main():
+def fibonacci(maximo):
+    # Inicialização dos elementos
+    atual, proximo = 0, 1
+
+    # Define a condição de parada
+    while atual < maximo:
+        # Retorna o valor do elemento atual
+        yield atual
+
+        atual, proximo = proximo, atual + proximo
+
+
+def main_iterador():
     '''
     Função principal que, realiza todo o escopo de código da conversão.
     '''
-    
+
     # Cria nosso objeto iterável
     objeto_fibonacci = Fibonacci(maximo=1000000)
 
@@ -37,5 +49,18 @@ def main():
         print('Sequência: {0}'.format(fibonacci))
 
 
+def main_gerador():
+    '''
+    Função principal que, realiza todo o escopo de código da conversão.
+    '''
+
+    # Cria nosso objeto iterável
+    fibonacci_generator = Fibonacci(1000000)
+
+    # Mostra na tela toda a sequência
+    for numero_fibonacci in fibonacci_generator:
+        print(numero_fibonacci)
+
+
 if __name__ == '__main__':
-    main()
+    main_gerador()

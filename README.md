@@ -4,11 +4,14 @@ Subirei algumas POCs (que, justifica a simplicidade dos escopos de códigos) par
 
 ## Aplicações
 
-* Web Scrapping Básico:
+* Web Scrapping:
     * [Beautiful Soup - bs4](./beautiful-soup)
 
-* Extrair texto de um arquivo de áudio:
+* Converte Áudio em Texto:
     * [SpeechRecognition](./speech-recognition)
+
+* Iterador:
+    * [Sequência de Fibonacci](./fibonacci)
 
 ## Bibliotecas
 
