@@ -13,6 +13,9 @@ Subirei algumas POCs (que, justifica a simplicidade dos escopos de códigos) par
 * Iterador e Gerador:
     * [Sequência de Fibonacci](./fibonacci)
 
+* Extrair texto de imagem:
+    * [easyocr](./easyocr)
+
 ## Bibliotecas
 
 * [Beautiful Soup - bs4](https://pypi.org/project/beautifulsoup4/)
