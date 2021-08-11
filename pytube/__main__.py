@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 from pytube import YouTube
-import os
 
 
 def main_video():
