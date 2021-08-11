@@ -1,0 +1,1 @@
+## Extrai texto de um arquivo de áudio
