@@ -4,6 +4,9 @@ Subirei algumas POCs (que, justifica a simplicidade dos escopos de códigos) par
 
 ## Aplicações
 
+* Download Vídeo/Áudio do YouTube:
+    * [PyTube](./pytube)
+
 * Web Scrapping:
     * [Beautiful Soup - bs4](./beautiful-soup)
 
