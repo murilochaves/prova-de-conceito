@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 class Fibonacci():
-
     def __init__(self, maximo=1000000):
         # Inicializa os dois primeiros números
         self.atual, self.proximo = 0, 1
@@ -26,6 +25,10 @@ class Fibonacci():
 
 
 def main():
+    '''
+    Função principal que, realiza todo o escopo de código da conversão.
+    '''
+    
     # Cria nosso objeto iterável
     objeto_fibonacci = Fibonacci(maximo=1000000)
 
