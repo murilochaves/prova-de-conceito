@@ -14,7 +14,10 @@ Subirei algumas POCs (que, justifica a simplicidade dos escopos de códigos) par
     * [Sequência de Fibonacci](./fibonacci)
 
 * Extrair texto de imagem:
-    * [easyocr](./easyocr) 
+    * [easyocr](./easyocr)
+
+* Barra de progresso:
+    * [tqdm](./tqdm)
 
 ## Bibliotecas
 
