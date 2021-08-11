@@ -10,7 +10,7 @@ Subirei algumas POCs (que, justifica a simplicidade dos escopos de códigos) par
 * Converte Áudio em Texto:
     * [SpeechRecognition](./speech-recognition)
 
-* Iterador:
+* Iterador e Gerador:
     * [Sequência de Fibonacci](./fibonacci)
 
 ## Bibliotecas
