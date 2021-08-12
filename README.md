@@ -28,13 +28,17 @@ Subirei algumas POCs (que, justifica a simplicidade dos escopos de códigos) par
 * Barra de Progresso:
     * [tqdm](./tqdm)
 
+* Criando QR Code:
+    * [qrcode](./qrcode)
+
 ## Bibliotecas
 
 * [Beautiful Soup - bs4](https://pypi.org/project/beautifulsoup4/)
 
 ## Créditos
 
-* [Python Academy](https://github.com/PythonAcademyBrasil)
+* [Python Academy](https://pythonacademy.com.br/)
+* [Python Dicas](https://pythondicas.com)
 
 ## Licença
 
