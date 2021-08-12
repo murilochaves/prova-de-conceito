@@ -1,0 +1,1 @@
+## Converte Imagem para Escala de Cinza

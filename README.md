@@ -13,6 +13,9 @@ Subirei algumas POCs (que, justifica a simplicidade dos escopos de códigos) par
 * Converte Áudio em Texto:
     * [SpeechRecognition](./speech-recognition)
 
+* Converte Imagem para Escala de Cinza:
+    * [PIL](./pil)
+
 * Iterador e Gerador:
     * [Sequência de Fibonacci](./fibonacci)
 
